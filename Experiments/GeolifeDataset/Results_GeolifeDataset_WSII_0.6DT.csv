@@ -1,0 +1,61 @@
+,Purity,Coverage,Harmonic mean,best parameters,k_segment1,k_segment2,k_tsid,acc,kappa,pr,re,j,p2,c2,h2,homo,comp,v_measure
+0,92.77190448983755,99.40304957085945,95.97307064138776,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",37,10,239,22.349132443345095,19.45807897676447,22.349132443345095,22.349132443345095,12.580367746426962,68.25604661239895,99.59323595351447,80.99934002223999,37.002416364370205,99.45484627582817,53.937321622169655
+1,99.09823987720313,84.21406078285271,91.05188431374042,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",1587,114,256,56.82512912406451,56.137068395331546,56.82512912406451,56.82512912406451,39.68931752926452,87.35663724757458,90.87347878537531,89.08036080963558,74.75317753000111,94.02207051016835,83.28766937332051
+2,96.85765232639551,95.51670482243647,96.1825050299919,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",292,39,223,38.96938335489435,37.17200313631485,38.96938335489435,38.96938335489435,24.1999839327317,75.75596595073263,97.13321401296685,85.12297247284701,57.922470560070536,98.50361269956097,72.94912060389527
+3,99.0647957696018,82.83555075447549,90.22618235494562,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",1697,110,241,53.774923720996235,53.06053682386295,53.774923720996235,53.774923720996235,36.77544583282785,86.55646416715827,89.21788881726161,87.86702798633318,72.79652465816599,93.26335671191266,81.76867513775541
+4,99.19183795637483,76.17069328027904,86.17018711580883,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",2136,115,204,54.30627194313207,53.62965441917065,54.30627194313207,54.30627194313207,37.274268884062714,85.80426385394905,85.9662203142347,85.88516573251393,71.97958471296727,92.76225172474209,81.06002094630415
+5,99.48383149143162,76.48794655502753,86.48334489405472,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",2841,139,245,54.66871519108892,54.084512764899294,54.66871519108892,54.66871519108892,37.61661865369876,89.62429377278997,87.88675314724493,88.74701963031839,73.61739410408398,92.87755820122024,82.13346664091512
+6,99.4191778662821,73.78873571517659,84.70762436781087,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",2056,111,200,53.20352878274818,52.3433515481591,53.20352878274818,53.20352878274818,36.24305703098916,91.03879057031463,85.9301358202546,88.41072608819015,68.82639390109736,90.78320079823249,78.29454550664052
+7,98.80931402433781,87.31997344673847,92.71003821186798,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",1267,110,256,58.28677839851024,57.63505325244807,58.28677839851024,58.28677839851024,41.13009198423128,86.45855143373932,91.28644415472078,88.80693041201447,75.67420816546353,93.69389735395428,83.72546260055825
+8,98.81650372799756,85.01855043709573,91.39971638566254,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",1359,117,246,56.615047376608686,55.948068853421894,56.615047376608686,56.615047376608686,39.484650474664036,86.58458409282511,90.14096854490468,88.32699238671073,73.64193230028,93.84278984971736,82.52411668681145
+9,99.2147956427673,90.80195887170309,94.82214151524124,"{'window_size': 7, 'majority_vote_degree': 0.6, 'binary_classifier': DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=10, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')}",893,62,241,40.922477083246925,39.26586310028428,40.922477083246925,40.922477083246925,25.724864413850646,89.03047162514795,95.18069666697028,92.00291591911135,57.9050982839608,96.25516415707416,72.3100058679005

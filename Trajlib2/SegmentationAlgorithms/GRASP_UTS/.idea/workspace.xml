@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f01bfbf3-42df-4153-84ee-a9e3957cbd34" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GRASPUTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/GRASPUTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/fv_d9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Fishing Vessels/maxdistances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Fishing Vessels/maxdistances.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/h_d9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/h_d9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/Hurricanes/maxdistances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/Hurricanes/maxdistances.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/geolife/geolife.csv" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/geolife/geolife.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases/geolife/geolife_w_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/executable/databases/geolife/geolife_w_features.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/executable/fv_tt_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/executable/fv_tt_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geolife_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/executable/geolife_runner.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Algorithm2$BuildSegments.coverage" NAME="BuildSegments Coverage Results" MODIFIED="1535052411255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2$execute.coverage" NAME="execute Coverage Results" MODIFIED="1535121205849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$prepare.coverage" NAME="prepare Coverage Results" MODIFIED="1537630773588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oldgrasputs$runner.coverage" NAME="runner Coverage Results" MODIFIED="1563469986320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$cost_test.coverage" NAME="cost_test Coverage Results" MODIFIED="1535392644887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2$log2_test.coverage" NAME="log2_test Coverage Results" MODIFIED="1535049628315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$execute.coverage" NAME="execute Coverage Results" MODIFIED="1537570048781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$test_random.coverage" NAME="test_random Coverage Results" MODIFIED="1535731195153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oldgrasputs$cross_validation.coverage" NAME="cross_validation Coverage Results" MODIFIED="1563374436987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oldgrasputs$fv_tt_runner.coverage" NAME="fv_tt_runner Coverage Results" MODIFIED="1563548205514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/executable" />
+    <SUITE FILE_PATH="coverage/Algorithm2$cost_test.coverage" NAME="cost_test Coverage Results" MODIFIED="1535121265322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$cross_validation.coverage" NAME="cross_validation Coverage Results" MODIFIED="1538250950451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm2__Following_Java_$execute_geolife.coverage" NAME="execute_geolife Coverage Results" MODIFIED="1535556550738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Feasibility.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feasibility.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistanceMetrics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cost/DistanceMetrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildSegments.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BuildSegments/BuildSegments.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GRASPUTS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GRASPUTS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="87" column="67" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="87" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geolife_runner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/executable/geolife_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fv_tt_runner.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/executable/fv_tt_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fv_d1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalSearchProcedure.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optimization/LocalSearchProcedure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#98#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MDLCost.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cost/MDLCost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/executable/geolife_runner.py" />
+        <option value="$PROJECT_DIR$/GRASPUTS.py" />
+        <option value="$PROJECT_DIR$/executable/fv_tt_runner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="BuildSegments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="cost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="executable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="executable" type="462c0819:PsiDirectoryNode" />
+              <item name="databases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="executable" type="462c0819:PsiDirectoryNode" />
+              <item name="databases" type="462c0819:PsiDirectoryNode" />
+              <item name="Fishing Vessels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="initialization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="optimization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldgrasputs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldgrasputs" type="462c0819:PsiDirectoryNode" />
+              <item name="Trajectories" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="365" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="364" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="365" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="364" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="365" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="364" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="365" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="364" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/databases/geolife" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jordan\Documents\pycharm-workspace\oldgrasputs\executable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="fv_tt_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/executable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/executable/fv_tt_runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fv_tt_runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f01bfbf3-42df-4153-84ee-a9e3957cbd34" name="Default" comment="" />
+      <created>1534442113093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534442113093</updated>
+      <workItem from="1563487350303" duration="245000" />
+      <workItem from="1563487599225" duration="1528000" />
+      <workItem from="1563492724592" duration="527000" />
+    </task>
+    <task id="LOCAL-00001" summary="config for geolife segmentation">
+      <created>1563489184393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563489184393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="5" weight="0.3295302" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.4825708" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.41830066" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.3224401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21695095" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32763532" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32897604" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49946696" weight="0.4825708" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4030501" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.48290598" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="PlantUML" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32621083" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config for geolife segmentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="config for geolife segmentation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="point" />
+        <watch expression="point" />
+        <watch expression="point" />
+        <watch expression="proper_segmentation[0]" />
+        <watch expression="proper_segmentation['31'][97]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/executable/databases/geolife/geolife_w_features.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="66" selection-start-column="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/to5_25.csv" />
+    <entry file="file://$PROJECT_DIR$/hurricanes_training1.csv" />
+    <entry file="file://$PROJECT_DIR$/hurricanes_testing2.csv" />
+    <entry file="file://$PROJECT_DIR$/hurricanes_training2.csv" />
+    <entry file="file://$PROJECT_DIR$/prepare.py" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes5_train.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes6_train.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes7_train.csv" />
+    <entry file="file://$PROJECT_DIR$/results_reversed/Hurricanes_all_test.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes_all_test.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes1_train.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes1_test.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes0_train.csv" />
+    <entry file="file://$PROJECT_DIR$/results/Hurricanes0_test.csv" />
+    <entry file="file://$PROJECT_DIR$/executable/databases/Hurricanes/h_d3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/databases/Hurricanes/h_d4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cross_validation.py" />
+    <entry file="file://$PROJECT_DIR$/purity_coverage_calculation.py" />
+    <entry file="file://$PROJECT_DIR$/UnsupervisedEvaluation.py" />
+    <entry file="file://$PROJECT_DIR$/executable/databases/Hurricanes/h_d10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="96" selection-start-column="76" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_trajectories.py" />
+    <entry file="file://$PROJECT_DIR$/results5/Hurricanes0_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/databases/Hurricanes/h_d1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/copy.py" />
+    <entry file="file://$PROJECT_DIR$/Trajectories/TrajectoryPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trajectories/TrajectorySample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trajectories/TrajectorySegment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GRASP_UTS.py" />
+    <entry file="file://$PROJECT_DIR$/executable/databases/geolife/geolife.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="48" selection-start-column="39" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/experiment_01.py" />
+    <entry file="file://$PROJECT_DIR$/time_calculation.py" />
+    <entry file="file://$PROJECT_DIR$/settings.py" />
+    <entry file="file://$PROJECT_DIR$/initialization/NGreedyRandomizedConstruction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.py" />
+    <entry file="file://$PROJECT_DIR$/Feasibility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner.py" />
+    <entry file="file://$PROJECT_DIR$/cost/MDLCost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuildSegments/BuildSegments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/GRASPUTS/lib/python3.6/site-packages/numpy/core/_methods.py" />
+    <entry file="file://$PROJECT_DIR$/cost/DistanceMetrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/databases/geolife/geolife_w_features.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="66" selection-start-column="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/oldgrasputs/Lib/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="479" selection-start-line="479" selection-end-line="479" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optimization/LocalSearchProcedure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/geolife_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GRASPUTS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="87" column="67" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="87" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/databases/Fishing Vessels/fv_d1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executable/fv_tt_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
