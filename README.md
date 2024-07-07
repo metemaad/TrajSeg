@@ -1,4 +1,6 @@
 # TrajSeg
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmetemaad%2FTrajSeg.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmetemaad%2FTrajSeg?ref=badge_shield)
+
 This is a trajectory Segmentation library. The following algorithms are available:
 
 GRASP-UTS -> Contribution to the code: JordanRose, Amilcar Soares
@@ -46,3 +48,7 @@ link to paper: https://dl.acm.org/doi/abs/10.1145/1921591.1921596?casa_token=uys
 For OWS: Etemad, Mohammad, et al. "A Trajectory Segmentation Algorithm Based on Interpolation-based Change Detection Strategies." EDBT/ICDT Workshops. 2019.
 
 link to paper: http://ceur-ws.org/Vol-2322/BMDA_4.pdf
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmetemaad%2FTrajSeg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmetemaad%2FTrajSeg?ref=badge_large)
